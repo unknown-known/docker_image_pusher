@@ -9,3 +9,4 @@ xhofe/alist:latest
 
 # 个人新增
 apitable/all-in-one
+cp0204/quark-auto-save:latest
